@@ -11,7 +11,7 @@ The following scraper is the scraper which scrapes the details of the product us
   ```git colne git@github.com:architsharmaa/Scraper-Task.git``` (for SSH keys)<br>
   ```git colne https://github.com/architsharmaa/Scraper-Task.git``` (for https)<br>
 * Install the required dependencies using <br>
-``` pip install requirements.txt```
+``` pip install -r requirements.txt```
 * Run the given **scrapper** by running code in main or enter following command<br>
 ```python main.py```
 
